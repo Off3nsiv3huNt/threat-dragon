@@ -63,7 +63,7 @@
     "pug-bootstrap": "^0.0.16",
     "toastr": "^2.1.4",
     "uuid": "^3.4.0",
-    "yargs": "16.0.0"
+    "yargs": "16.2.0"
   },
   "devDependencies": {
     "@babel/preset-env": "^7.15.0",
